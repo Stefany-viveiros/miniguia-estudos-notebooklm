@@ -110,7 +110,7 @@ Também observei que o NotebookLM responde apenas com base nas fontes adicionada
 
 ---
 
-## 🎓 Conclusão
+##  Conclusão
 
 O uso do NotebookLM mostrou como ferramentas de Inteligência Artificial podem auxiliar na organização do conhecimento, permitindo sintetizar conteúdos, comparar conceitos e produzir materiais de estudo de forma eficiente. Além do aprendizado sobre Platão, este projeto contribuiu para o desenvolvimento de habilidades de pesquisa, curadoria de fontes e elaboração de prompts.
 
